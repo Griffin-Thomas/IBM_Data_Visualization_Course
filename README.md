@@ -4,4 +4,4 @@
 
 This repo contains the final assignment I completed for the following course: 
 
-www.coursera.org/learn/python-for-data-visualization
+https://www.coursera.org/account/accomplishments/records/EHXL5H7K23R4
